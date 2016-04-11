@@ -1,6 +1,6 @@
 # angular1-onsen-webpack
 
-[![Dependency Status](https://david-dm.org/snipking/angular1-onsen/status.svg)](https://david-dm.org/snipking/angular1-onsen#info=dependencies) [![devDependency Status](https://david-dm.org/snipking/angular1-onsen/dev-status.svg)](https://david-dm.org/snipking/angular1-onsen#info=devDependencies)
+[![Dependency Status](https://david-dm.org/snipking/angular1-onsen-webpack/status.svg)](https://david-dm.org/snipking/angular1-onsen-webpack#info=dependencies) [![devDependency Status](https://david-dm.org/snipking/angular1-onsen-webpack/dev-status.svg)](https://david-dm.org/snipking/angular1-onsen-webpack#info=devDependencies)
 
 A seed template for angular1 & onsenui & webpack project
 
